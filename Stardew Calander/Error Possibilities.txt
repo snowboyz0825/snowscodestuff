@@ -1,5 +1,6 @@
 If you're here, it's because you have failed to load an extension
 This can be caused by many things. 
+Skipm to line 18 if your problem occured whilst loading a cask extension.
 Skip to line 15 if your problem occured whilst loading rice or taro tubers. 
 Skip to line 11 if your problem occured whilst trying to make a reminder for tea.
 Otherise, here's a general overview off possible problems
@@ -14,3 +15,12 @@ I could code a backdoor workaround, but no. Sorry.
 
 Taro tubers and rice aren't exceptions. They're just formatted differently. Because of the special way they grow, they need to have "watered" and "unwatered" before their respective names. 
 In case you didn't know, rice and taro tubers grow faster when they're within 3 tiles of water. Otherwise, you can plant them anywhere, but they grow slower. 
+Casks have a couple of possible problems with casks. The first thing you should do if it's not working is make sure you typed CASKS (in lowercase), not CASK. The next and equally common issue is that you may have typed the name of what you're cask-ing is. For example, you might have typed Ancient Fruit Wine Casks instead of just Wine Casks. 
+There are six catagories fo cask-able products. 
+Wine
+Pale Ale
+Beer
+Mead
+Cheese
+Goat Cheese
+Restrict your wording to Wine Casks instead of Ancient Fruit Wine Casks, because, in reality, that's the only thing you'll ever cask. 
