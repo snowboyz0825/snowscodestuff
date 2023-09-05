@@ -1,6 +1,0 @@
-If you're here, it's because you have failed to load an extension
-This can be caused by many things. 
-Skip to line _ if you problem occured whilst farming rice or taro tubers. 
-Otherise, here's a general overview off possible problems
-
-Basically, the way loading an extension works is buy "fetching" a file (if you could call it that) from the 

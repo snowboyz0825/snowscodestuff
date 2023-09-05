@@ -1,0 +1,16 @@
+If you're here, it's because you have failed to load an extension
+This can be caused by many things. 
+Skip to line 15 if your problem occured whilst loading rice or taro tubers. 
+Skip to line 11 if your problem occured whilst trying to make a reminder for tea.
+Otherise, here's a general overview off possible problems
+
+Basically, the way loading an extension works is buy "fetching" a file (if you could call it that) from the "Extensions" folder, found here - https://github.com/snowboyz0825/snowscodestuff/tree/main/Stardew%20Calander/Extensions
+It replaces any spaces with dashes, and automatically lowercases it. It then fetches the "file" from the url. 
+
+Double check if what you're trying to load actually exists. There should be one file for each plant, with the exception of tea.
+Tea has an exception because it's a very niche plant as is and it grows in an unusual way.
+It produces on the 22nd and until the end of the month. Then it waits till the next months. 
+I could code a backdoor workaround, but no. Sorry. 
+
+Taro tubers and rice aren't exceptions. They're just formatted differently. Because of the special way they grow, they need to have "watered" and "unwatered" before their respective names. 
+In case you didn't know, rice and taro tubers grow faster when they're within 3 tiles of water. Otherwise, you can plant them anywhere, but they grow slower. 
