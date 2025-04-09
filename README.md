@@ -1,1 +1,1 @@
-Truly sorry if you requires something that was linked here. Message me privately anywhere and I'll be happy to send you what it is you're looking for. My username is the same everywhere except scratch - there it is Dat_Snow_Kid
+Truly sorry if you require something that was linked here. Message me privately anywhere and I'll be happy to send you what it is you're looking for. My username is the same everywhere except scratch - there it is Dat_Snow_Kid
