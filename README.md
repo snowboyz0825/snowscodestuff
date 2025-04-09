@@ -1,5 +1,1 @@
-I can't put my windows apps here. Sorry. 
-
-I put the SB3 files here, and if you would like me to add an HTML file ask in issues. 
-
-There's other random files here too.
+Truly sorry if you requires something that was linked here. Message me privately anywhere and I'll be happy to send you what it is you're looking for. My username is the same everywhere except scratch - there it is Dat_Snow_Kid
