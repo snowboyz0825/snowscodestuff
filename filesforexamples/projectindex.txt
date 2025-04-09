@@ -1,6 +1,0 @@
-Enemies.sprite3/
-Joystick.sprite3/
-Player and menu.sprite3/
-Text..sprite3/
-Text_.sprite3/
-/
